@@ -1,0 +1,30 @@
+.pink-container{
+    background-color: #feeae9;
+    
+}
+.produt-title-top-banner{
+    font-weight: 700;
+}
+.buy-now-btn{
+    background-color: #f62681;
+    
+    color: rgb(255, 255, 255);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 600;
+}
+.shoes-sec{
+    width: 100%;
+    background-color: black;
+}
+
+.email-send-btn{
+    background-color: #f62681;
+    color: white;
+    font-size: 25px;
+    
+}
+.cetagory-card a{
+    text-decoration: none;
+    color: black;
+}
